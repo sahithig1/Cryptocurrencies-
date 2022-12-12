@@ -18,9 +18,12 @@ Data Preprocessing:
     . An Elbow curve is created to find the best value for K.
     
     . Once the best value for K is defined , the K-Means algorithm is used to predict the K clusters for the cryptocurrencies data.
+  
+ ![Screen Shot 2022-12-12 at 11 26 25 AM](https://user-images.githubusercontent.com/55648656/207112553-1bc2a279-caeb-4432-b4bb-c7a18287fa15.png)
     
-    ![Screen Shot 2022-12-12 at 11 26 25 AM](https://user-images.githubusercontent.com/55648656/207112553-1bc2a279-caeb-4432-b4bb-c7a18287fa15.png)
-    
+ ![Screen Shot 2022-12-12 at 11 35 02 AM](https://user-images.githubusercontent.com/55648656/207114361-9b78c604-b434-4048-a5d1-92b604ef3547.png)
+
+
 Visualizing Resuts :
 
 . A 3D-Scatter plot is created using Plotly Express to plot the clusters.
